@@ -1,0 +1,26 @@
+# Ignore raw and cleaned data files but keep folder structure
+data/raw/*
+data/cleaned/*
+dashboard/data/*
+
+# Keep placeholder files
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
+!dashboard/data/.gitkeep
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment
+.env
+venv/
+.venv/
+
+# Power BI files can be large
+*.pbix
+
+# System files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+balance_group,total_customers,churned_customers,churn_rate
+Zero Balance,3617,500,13.823610727121924
+Low Balance,75,26,34.66666666666667
+Medium Balance,1509,300,19.880715705765407
+High Balance,3830,987,25.770234986945166
+Very High Balance,969,224,23.11661506707946
