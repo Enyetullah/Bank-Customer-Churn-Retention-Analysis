@@ -309,7 +309,7 @@ The page includes:
 - Geography slicer
 - Gender slicer
 
-![Executive Overview](dashboard/screenshots/executive_overview.png)
+![Executive Overview](dashboard/Screenshots/executive_overview.png)
 
 ---
 
@@ -330,7 +330,7 @@ The page includes:
 - Churn rate by customer tenure
 - Churn rate by credit-card ownership
 
-![Churn Driver Analysis](dashboard/screenshots/churn_driver_analysis.png)
+![Churn Driver Analysis](dashboard/Screenshots/churn_driver_analysis.png)
 
 ---
 
@@ -350,7 +350,7 @@ The page includes:
 - Churn by geography and age group
 - High-churn customer segments
 
-![Customer Segments and Retention](dashboard/screenshots/customer_segments_retention.png)
+![Customer Segments and Retention](dashboard/Screenshots/customer_segments_retention.png)
 
 ---
 
